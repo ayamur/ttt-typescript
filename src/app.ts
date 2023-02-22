@@ -44,3 +44,9 @@ function init(): void {
   winner = false;
   tie = false;
 }
+
+//? not sure, it says void or any and won't take number...void still confuses me. Return to this
+
+// function placePiece(idx): number {
+//   board[idx] = turn;
+// }
